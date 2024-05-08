@@ -9,7 +9,7 @@
             this._radius = radius;
             MathArea();
         }
-
+// some info
         private void MathArea()
         {
             Area = Math.PI * _radius * _radius;
